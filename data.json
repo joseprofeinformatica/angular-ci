@@ -1,5 +1,4 @@
-{
-  "reservas": [
+ [
     {
       "id": 1,
       "cliente": {
@@ -281,4 +280,3 @@
       "precioTotal": 320
     }
   ]
-}
