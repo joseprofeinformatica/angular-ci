@@ -1,0 +1,284 @@
+{
+  "reservas": [
+    {
+      "id": 1,
+      "cliente": {
+        "id": 1,
+        "nombre": "Ana García",
+        "telefono": "600111222",
+        "email": "ana.garcia@example.com",
+        "vip": true
+      },
+      "personas": 4,
+      "fechaReserva": "2025-11-15T20:30:00",
+      "estado": "Pendiente",
+      "precioTotal": 120
+    },
+    {
+      "id": 2,
+      "cliente": {
+        "id": 2,
+        "nombre": "Luis Pérez",
+        "telefono": "600333444",
+        "email": "luis.perez@example.com",
+        "vip": false
+      },
+      "personas": 2,
+      "fechaReserva": "2025-11-16T21:00:00",
+      "estado": "Confirmada",
+      "precioTotal": 80
+    },
+    {
+      "id": 3,
+      "cliente": {
+        "id": 3,
+        "nombre": "María López",
+        "telefono": "600555666",
+        "email": "maria.lopez@example.com",
+        "vip": false
+      },
+      "personas": 5,
+      "fechaReserva": "2025-11-17T19:30:00",
+      "estado": "Cancelada",
+      "precioTotal": 150
+    },
+    {
+      "id": 4,
+      "cliente": {
+        "id": 4,
+        "nombre": "Carlos Ruiz",
+        "telefono": "600777888",
+        "email": "carlos.ruiz@example.com",
+        "vip": true
+      },
+      "personas": 3,
+      "fechaReserva": "2025-11-18T22:00:00",
+      "estado": "Pendiente",
+      "precioTotal": 100
+    },
+    {
+      "id": 5,
+      "cliente": {
+        "id": 1,
+        "nombre": "Ana García",
+        "telefono": "600111222",
+        "email": "ana.garcia@example.com",
+        "vip": true
+      },
+      "personas": 6,
+      "fechaReserva": "2025-11-19T20:00:00",
+      "estado": "Confirmada",
+      "precioTotal": 200
+    },
+    {
+      "id": 6,
+      "cliente": {
+        "id": 5,
+        "nombre": "Laura Fernández",
+        "telefono": "600999000",
+        "email": "laura.fernandez@example.com",
+        "vip": false
+      },
+      "personas": 2,
+      "fechaReserva": "2025-11-20T21:15:00",
+      "estado": "Pendiente",
+      "precioTotal": 70
+    },
+    {
+      "id": 7,
+      "cliente": {
+        "id": 6,
+        "nombre": "Javier Gómez",
+        "telefono": "600222333",
+        "email": "javier.gomez@example.com",
+        "vip": true
+      },
+      "personas": 5,
+      "fechaReserva": "2025-11-21T22:00:00",
+      "estado": "Confirmada",
+      "precioTotal": 180
+    },
+    {
+      "id": 8,
+      "cliente": {
+        "id": 7,
+        "nombre": "Patricia Sánchez",
+        "telefono": "600444555",
+        "email": "patricia.sanchez@example.com",
+        "vip": false
+      },
+      "personas": 3,
+      "fechaReserva": "2025-11-22T20:45:00",
+      "estado": "Pendiente",
+      "precioTotal": 95
+    },
+    {
+      "id": 9,
+      "cliente": {
+        "id": 8,
+        "nombre": "Andrés Navarro",
+        "telefono": "600666777",
+        "email": "andres.navarro@example.com",
+        "vip": false
+      },
+      "personas": 8,
+      "fechaReserva": "2025-11-23T21:30:00",
+      "estado": "Confirmada",
+      "precioTotal": 300
+    },
+    {
+      "id": 10,
+      "cliente": {
+        "id": 2,
+        "nombre": "Luis Pérez",
+        "telefono": "600333444",
+        "email": "luis.perez@example.com",
+        "vip": false
+      },
+      "personas": 2,
+      "fechaReserva": "2025-11-24T20:00:00",
+      "estado": "Cancelada",
+      "precioTotal": 80
+    },
+    {
+      "id": 11,
+      "cliente": {
+        "id": 4,
+        "nombre": "Carlos Ruiz",
+        "telefono": "600777888",
+        "email": "carlos.ruiz@example.com",
+        "vip": true
+      },
+      "personas": 4,
+      "fechaReserva": "2025-11-25T21:00:00",
+      "estado": "Confirmada",
+      "precioTotal": 160
+    },
+    {
+      "id": 12,
+      "cliente": {
+        "id": 3,
+        "nombre": "María López",
+        "telefono": "600555666",
+        "email": "maria.lopez@example.com",
+        "vip": false
+      },
+      "personas": 5,
+      "fechaReserva": "2025-11-26T19:45:00",
+      "estado": "Pendiente",
+      "precioTotal": 150
+    },
+    {
+      "id": 13,
+      "cliente": {
+        "id": 6,
+        "nombre": "Javier Gómez",
+        "telefono": "600222333",
+        "email": "javier.gomez@example.com",
+        "vip": true
+      },
+      "personas": 7,
+      "fechaReserva": "2025-11-27T20:30:00",
+      "estado": "Confirmada",
+      "precioTotal": 250
+    },
+    {
+      "id": 14,
+      "cliente": {
+        "id": 7,
+        "nombre": "Patricia Sánchez",
+        "telefono": "600444555",
+        "email": "patricia.sanchez@example.com",
+        "vip": false
+      },
+      "personas": 3,
+      "fechaReserva": "2025-11-28T22:00:00",
+      "estado": "Pendiente",
+      "precioTotal": 90
+    },
+    {
+      "id": 15,
+      "cliente": {
+        "id": 5,
+        "nombre": "Laura Fernández",
+        "telefono": "600999000",
+        "email": "laura.fernandez@example.com",
+        "vip": false
+      },
+      "personas": 2,
+      "fechaReserva": "2025-11-29T20:00:00",
+      "estado": "Cancelada",
+      "precioTotal": 70
+    },
+    {
+      "id": 16,
+      "cliente": {
+        "id": 8,
+        "nombre": "Andrés Navarro",
+        "telefono": "600666777",
+        "email": "andres.navarro@example.com",
+        "vip": false
+      },
+      "personas": 5,
+      "fechaReserva": "2025-12-01T21:30:00",
+      "estado": "Confirmada",
+      "precioTotal": 180
+    },
+    {
+      "id": 17,
+      "cliente": {
+        "id": 1,
+        "nombre": "Ana García",
+        "telefono": "600111222",
+        "email": "ana.garcia@example.com",
+        "vip": true
+      },
+      "personas": 4,
+      "fechaReserva": "2025-12-02T20:15:00",
+      "estado": "Pendiente",
+      "precioTotal": 120
+    },
+    {
+      "id": 18,
+      "cliente": {
+        "id": 2,
+        "nombre": "Luis Pérez",
+        "telefono": "600333444",
+        "email": "luis.perez@example.com",
+        "vip": false
+      },
+      "personas": 3,
+      "fechaReserva": "2025-12-03T21:00:00",
+      "estado": "Confirmada",
+      "precioTotal": 110
+    },
+    {
+      "id": 19,
+      "cliente": {
+        "id": 7,
+        "nombre": "Patricia Sánchez",
+        "telefono": "600444555",
+        "email": "patricia.sanchez@example.com",
+        "vip": false
+      },
+      "personas": 6,
+      "fechaReserva": "2025-12-04T20:45:00",
+      "estado": "Pendiente",
+      "precioTotal": 200
+    },
+    {
+      "id": 20,
+      "cliente": {
+        "id": 4,
+        "nombre": "Carlos Ruiz",
+        "telefono": "600777888",
+        "email": "carlos.ruiz@example.com",
+        "vip": true
+      },
+      "personas": 8,
+      "fechaReserva": "2025-12-05T22:15:00",
+      "estado": "Confirmada",
+      "precioTotal": 320
+    }
+  ]
+}
